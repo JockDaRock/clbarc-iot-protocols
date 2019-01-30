@@ -51,7 +51,7 @@ Now, we need to open a separate terminal from where our **mqtt_sub.py** file is 
 
 And then we will run the python publisher application.
 
-`python3 mqtt_sub.py`
+`python3 mqtt_pub.py`
 
 You did it!  You are now and expert in IoT protocols ;)!
 

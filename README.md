@@ -24,9 +24,6 @@ First we will subscribe to specific topic that we will test on.
 
 Open MQTT FX on your Mac computer.
 
-Go to connect 
-
-
 ### Python MQTT examples
 Create a directory for us to work in.
 

@@ -27,9 +27,9 @@ Open MQTT FX on your Mac computer.
 ### Python MQTT examples
 Create a directory for us to work in.
 
-`$ mkdir iot-prot`
+`$ mkdir iot-prot0`
 
-`$ cd iot-prot`
+`$ cd iot-prot0`
 
 Now let's clone the code we will need in this workshop.
 
